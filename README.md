@@ -29,14 +29,5 @@ My photograph.
 A clickable link to my GitHub profile.
 Learning Outcome
 
-Through this task, I learned:
-
-Basic HTML document structure.
-Usage of heading (<h1>), paragraph (<p>), image (<img>), and anchor (<a>) tags.
-How to create and view a webpage in a browser.
-
-
-
-
 <img width="960" height="540" alt="ss1" src="https://github.com/user-attachments/assets/d539bd1d-d0cc-4b6d-b79c-567d7c6879d4" />
 
