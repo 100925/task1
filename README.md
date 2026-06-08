@@ -1,10 +1,10 @@
 
 
-Objective
+# Objective
 
 To understand the basics of HTML by creating a simple webpage that includes a heading, introduction, image, and hyperlink.
 
-Description
+# Description
 
 This project demonstrates the creation of a basic personal webpage using HTML. The webpage contains:
 
@@ -15,13 +15,13 @@ This project demonstrates the creation of a basic personal webpage using HTML. T
 - Technologies Used
 - HTML5
 
-Features
+# Features
 - Simple and clean webpage layout
 - Personal introduction section
 - Image display
 - External website link
 
-Output
+# Output
 
 The webpage successfully displays:
 
